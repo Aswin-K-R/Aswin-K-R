@@ -1,5 +1,5 @@
 
-# Hi, I'm Aswin Krishnan 👋
+# Hi, I'm Aswin👋
 
 ### Robotics Engineer | AI/ML Enthusiast | Embedded Systems Developer
 
@@ -20,8 +20,6 @@ I enjoy developing autonomous robots, experimenting with machine learning, and i
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
 
 **Robotics & Autonomous Systems**
 
