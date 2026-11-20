@@ -3,7 +3,7 @@
 
 ### Robotics Engineer | AI/ML Enthusiast | Embedded Systems Developer
 
-M.Sc. in Electronics, specializing in Artificial Intelligence. Passionate about building intelligent systems through robotics, AI, and embedded technologies.
+M.Sc. in Electronics (specialization in Artificial Intelligence). Passionate about building intelligent systems through robotics, AI, and embedded technologies.
 
 I enjoy developing autonomous robots, experimenting with machine learning, and integrating software with real-world hardware.
 
@@ -25,17 +25,15 @@ I enjoy developing autonomous robots, experimenting with machine learning, and i
 
 ![ROS2](https://img.shields.io/badge/ROS_2-22314E?style=flat&logo=ros&logoColor=white)
 ![Gazebo](https://img.shields.io/badge/Gazebo-FF8C00?style=flat)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-
-ROS 2 · Nav2 · SLAM Toolbox · RViz · URDF/Xacro · TF2 · micro-ROS
+![RViz](https://img.shields.io/badge/RViz-22314E?style=flat&logo=ros&logoColor=white)
+![SLAM](https://img.shields.io/badge/SLAM-00A98F?style=flat)
+![Nav2](https://img.shields.io/badge/Nav2-22314E?style=flat&logo=ros&logoColor=white)
 
 **AI / Machine Learning**
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-111F68?style=flat)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 
-Machine Learning · Deep Learning · Computer Vision · Ollama
 
 **Embedded Systems & Hardware**
 
@@ -43,7 +41,6 @@ Machine Learning · Deep Learning · Computer Vision · Ollama
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat&logo=raspberrypi&logoColor=white)
 
-Sensors · Motors & Drivers · LiDAR · UART · I2C · SPI
 
 **Tools & Platforms**
 
@@ -54,14 +51,6 @@ Sensors · Motors & Drivers · LiDAR · UART · I2C · SPI
 
 ---
 
-
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true)
-
----
 
 ## 🌱 Currently Exploring
 
@@ -74,8 +63,8 @@ Sensors · Motors & Drivers · LiDAR · UART · I2C · SPI
 
 ## 🤝 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/aswin-krishnan-r-508b7b29b)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Aswin-K-R)
 
 ---
 
