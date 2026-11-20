@@ -51,16 +51,6 @@ I enjoy developing autonomous robots, experimenting with machine learning, and i
 
 ---
 
-
-## 🌱 Currently Exploring
-
-- Advanced ROS 2 and Autonomous Robotics
-- AI Agents and Intelligent Automation
-- Computer Vision and Edge AI
-- Robotics Perception and Sensor Integration
-
----
-
 ## 🤝 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/aswin-krishnan-r-508b7b29b)
